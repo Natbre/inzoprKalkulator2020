@@ -9,9 +9,10 @@ def odejmij(a,b):
     return a-b
     
 get_info()
+
 a = int(input())
 b = int(input())
 
 print(dodaj(a,b))
 
-print('Koniec programu')
+print('Koniec programu,papa')
